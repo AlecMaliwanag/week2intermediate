@@ -237,6 +237,7 @@ header a:hover {
 	background: #0b0b0b;
 	color: #7d8186;
 	padding: 50px 25px;
+	margin: 0;
 }
 
 .contactForm input {
@@ -261,7 +262,7 @@ header a:hover {
 	font-size: 24px;
 	color: #7d8186;
 }
-
+/*
 .contactForm hr.half {
 	margin: 2% 25%;
 }
@@ -269,7 +270,7 @@ header a:hover {
 .contactForm hr.three_quarters {
 	margin: 4% 10%;
 }
-
+*/
 .contactForm button {
 	margin-bottom: 0px;
 	clear: both;
@@ -299,6 +300,7 @@ footer {
 }
 
 footer p {
+
 	color: #7e8287;
 	text-align: center;
 }
